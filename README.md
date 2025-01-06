@@ -1,5 +1,7 @@
-<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=87Niu&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<p>
+  <img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=87Niu&show_icons=true&theme=outrun" width="500" height="400"/>
+  <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=87Niu&hide=smalltalk&theme=outrun&layout=compact" width="500" height="400"/>
+</p>
 
-<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=87Niu&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 
